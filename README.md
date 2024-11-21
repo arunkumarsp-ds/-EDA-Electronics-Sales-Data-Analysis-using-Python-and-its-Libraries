@@ -35,10 +35,7 @@ This Airbnb data analysis project is aimed at finding the optimal property to pu
 
 ## Source  Files  
 - [**PDF Report**](https://github.com/arunkumarsp-ds/Airbnb-data-analysis-using-Advanced-excel/blob/main/(pdf)Airbnb%20%20Data%20Analysis%20Using%20%20Advanced%20Excel%20Report.pdf)  
-
-- <a href="your-link-here" target="_blank" rel="noreferrer">
-  <img src="https://github.com/user-attachments/assets/f97777af-8fc9-4e57-ba2b-1c2fd8b38e4f" alt="excel" width="40" height="40"/>
-  </a> [**Excel Workbook**](https://github.com/arunkumarsp-ds/Airbnb-data-analysis-using-Advanced-excel/blob/main/Airbnb%20data%20analysis%20project%20excel%20workbook.xlsx)  
+- [**Excel Workbook**](https://github.com/arunkumarsp-ds/Airbnb-data-analysis-using-Advanced-excel/blob/main/Airbnb%20data%20analysis%20project%20excel%20workbook.xlsx)  
 
 ### > **Note:** In case the linked files (PDF report and Excel workbook) cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
 
